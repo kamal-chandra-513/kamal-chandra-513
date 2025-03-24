@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamala Kannan Chandra Kumar
-- 👀 I’m interested in Software Architecture, Computer Networking(Service Provider, Wireless and Application Centric), Core Java, Spring framework, Kubernetes, Docker, Distributed Systems, Deep Learning, AWS Cloud.
+- 👀 I’m interested in Software Architecture, Computer Networking(Service Provider, Wireless and Application Centric), Core Java, Python, Golang, Spring framework, Kubernetes, Docker, Distributed Systems, Deep Learning, AWS Cloud.
 - 🌱 I’m currently learning AWS Solution Architect Certificate, 
 - 💞️ I’m looking to collaborate on AI, ML, Generative AI, Networking
 - 📫 How to reach me ... engrckamal@gmail.com
